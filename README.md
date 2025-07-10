@@ -1,4 +1,4 @@
-# Power-BI
+# Power-BI 2
 
 <h2>Dashboard Analítico de Vendas Globais (Power BI)</h2> 
 
